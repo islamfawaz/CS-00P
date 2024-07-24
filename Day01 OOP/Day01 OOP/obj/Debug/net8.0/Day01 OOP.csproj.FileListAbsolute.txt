@@ -1,0 +1,14 @@
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\bin\Debug\net8.0\Day01 OOP.exe
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\bin\Debug\net8.0\Day01 OOP.deps.json
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\bin\Debug\net8.0\Day01 OOP.runtimeconfig.json
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\bin\Debug\net8.0\Day01 OOP.dll
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\bin\Debug\net8.0\Day01 OOP.pdb
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.AssemblyInfoInputs.cache
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.AssemblyInfo.cs
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.csproj.CoreCompileInputs.cache
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.dll
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\refint\Day01 OOP.dll
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.pdb
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\Day01 OOP.genruntimeconfig.cache
+C:\Users\TECH VALLEY\Desktop\Day01 OOP\Day01 OOP\obj\Debug\net8.0\ref\Day01 OOP.dll
